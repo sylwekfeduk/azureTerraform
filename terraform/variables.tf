@@ -1,11 +1,11 @@
 variable "resource_group" {
   description = "The resource group"
-  default = "azuretest"
+  default = "azuretest2"
 }
 
 variable "application_name" {
   description = "The Spring Boot application name"
-  default     = "wepappsylwek"
+  default     = "wepappsylwek2"
 }
 
 variable "location" {
